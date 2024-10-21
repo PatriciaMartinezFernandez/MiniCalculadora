@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mini Calculadora</string>
+    <string name="clear">BORRAR</string>
+    <string name="root">Raíz</string>
+</resources>
